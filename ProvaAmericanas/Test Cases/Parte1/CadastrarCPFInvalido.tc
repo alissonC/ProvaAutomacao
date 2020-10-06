@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CadastrarCPFInvalido</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b15a442a-1871-46ba-9424-72cf2c1f8787</testCaseGuid>
+</TestCaseEntity>

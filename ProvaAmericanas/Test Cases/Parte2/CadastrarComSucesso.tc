@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CadastrarComSucesso</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83e8ec19-c313-4646-8663-4ce546ef6756</testCaseGuid>
+   <variable>
+      <defaultValue>'nome do cliente'</defaultValue>
+      <description></description>
+      <id>3274e9d7-1565-45bc-9927-237ebc142a58</id>
+      <masked>false</masked>
+      <name>nomecliente</name>
+   </variable>
+   <variable>
+      <defaultValue>'cpfRandom'</defaultValue>
+      <description></description>
+      <id>67379067-5de5-4eb7-a135-079c866f68b4</id>
+      <masked>false</masked>
+      <name>cpfRandom</name>
+   </variable>
+</TestCaseEntity>
